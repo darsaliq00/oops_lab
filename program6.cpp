@@ -1,3 +1,4 @@
+//making two structures as given
 #include <iostream>
 #include <string>
 using namespace std;
@@ -6,8 +7,8 @@ struct Distance //English distance
  int feet;
  float inches;
  };
-struct Volume
-{
+struct Volume    
+{   
  Distance width;
  Distance height;
  Distance length;
