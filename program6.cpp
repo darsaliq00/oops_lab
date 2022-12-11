@@ -31,3 +31,4 @@ V=ToFoot(room.height)*ToFoot(room.width)*ToFoot(room.length);
  cout<<"Volume of room is "<<V<<" solid foot";
 return 0;
 }
+
