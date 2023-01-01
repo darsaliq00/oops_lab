@@ -5,7 +5,7 @@ struct phone{
 };
 int main(){
 	phone phone1, phone2;
-    phone1.areacode = 212;
+        phone1.areacode = 212;
 	phone1.exchange = 767;
 	phone1.number = 8900;	
 	cout << "Enter your areacode, exchange, and number: ";
