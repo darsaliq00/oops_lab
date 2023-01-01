@@ -1,8 +1,12 @@
-//starting with a basic program of c++
+//Starting a C++ journey with a hello stuff!
 #include <iostream>
+
 using namespace std;
-int main(){
+
+
+int main(void){
+   
     cout<<"*****Hello Programmer*****";
-    return 0;
+
 }    
     
