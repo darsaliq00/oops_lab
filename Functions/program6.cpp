@@ -6,9 +6,6 @@ and returns the equivalent in seconds (type long ). The second function,
 takes as its only argument a time in seconds (type long ), and returns a
 structure of type time .
 */
-
-//author @Nishant
-
 #include <iostream>
 using namespace std;
 
