@@ -1,3 +1,4 @@
+/* Write a program on static_cast */
 #include <iostream>
 using namespace std;
 
